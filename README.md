@@ -186,7 +186,7 @@ line or the closing brace `}` of the loop.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`.
 
-- [ ] Rerun the program to verify that it still works.
+- [done ] Rerun the program to verify that it still works.
 
 That's your first big IntelliJ trick! There are lots more.
 
